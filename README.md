@@ -4,11 +4,14 @@ This repository is supposed to be helpful for displaying the Density of States o
 ## doscar_plotter.py
 ### Description
 This script produces plots of the density of states of a system. There are tags to display the orbitals, the elements, and just the total density of states. There are additional visualization features to display the orbitals of each element on seperate subplots. If you are using the element tag a POSCAR will be needed as well as the DOSCAR.
+
 ### Sample Plots
 #### Orbitals
 <img src="images/orbitals.png" alt="Displays the DOSCAR with orbital contributions" width="600"/>
+
 #### Elements
 <img src="images/orbitals.png" alt="Displays the DOSCAR with element contributions" width="600"/>
+
 #### Subplots
 <img src="images/subplots.png" alt="Displays the DOSCAR in subplots" width="600"/>
 
