@@ -7,13 +7,13 @@ This script produces plots of the density of states of a system. There are tags 
 
 ### Sample Plots
 #### Orbitals
-<img src="images/orbitals.png" alt="Displays the DOSCAR with orbital contributions" width="600"/>
+<img src="Images/orbitals.png" alt="Displays the DOSCAR with orbital contributions" width="600"/>
 
 #### Elements
-<img src="images/orbitals.png" alt="Displays the DOSCAR with element contributions" width="600"/>
+<img src="Images/orbitals.png" alt="Displays the DOSCAR with element contributions" width="600"/>
 
 #### Subplots
-<img src="images/subplots.png" alt="Displays the DOSCAR in subplots" width="600"/>
+<img src="Images/subplots.png" alt="Displays the DOSCAR in subplots" width="600"/>
 
 ## nearest_neighbor_calculator.py
 ### Description 
