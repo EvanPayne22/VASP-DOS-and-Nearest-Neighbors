@@ -10,7 +10,7 @@ This script produces plots of the density of states of a system. There are tags 
 <img src="Images/orbitals.png" alt="Displays the DOSCAR with orbital contributions" width="600"/>
 
 #### Elements
-<img src="Images/orbitals.png" alt="Displays the DOSCAR with element contributions" width="600"/>
+<img src="Images/elements.png" alt="Displays the DOSCAR with element contributions" width="600"/>
 
 #### Subplots
 <img src="Images/subplots.png" alt="Displays the DOSCAR in subplots" width="600"/>
